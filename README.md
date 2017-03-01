@@ -26,13 +26,12 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
+http://i.imgur.com/rrh0m1L.gifv
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Well, I admittedly didn't realize I needed to complete this to qualify for the observer track, so I left myself unfortunately short on time. I'm still a bit fuzzy on intents and need to spend some more time on that. This was my first attempt at Java and to even build something semi-functional was pretty exciting.
+Well, I admittedly didn't realize I needed to complete this to qualify for the observer track, so I left myself unfortunately short on time. I'm still a bit fuzzy on intents and need to spend some more time on that. This was my first attempt at Java and to even build something semi-functional was pretty exciting. 
 
 ## License
 
